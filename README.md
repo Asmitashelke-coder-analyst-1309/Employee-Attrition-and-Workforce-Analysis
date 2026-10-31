@@ -7,8 +7,6 @@ Data Analyst | Python | Pandas | NumPy | Power BI
 
 Employee attrition affects workforce stability, productivity, and organizational costs. This project analyzes employee data using Python, Pandas, and NumPy to identify key attrition factors such as salary, job satisfaction, work-life balance, and employee tenure. An interactive Power BI dashboard is developed to visualize workforce trends and support data-driven HR decisions and employee retention strategies.
 
-# Employee Attrition & Workforce Analysis
-
 ## Project Overview
 
 The Employee Attrition & Workforce Analysis project focuses on analyzing employee data to identify key factors influencing employee attrition and understand workforce trends. The objective is to transform raw employee data into meaningful insights that support employee retention strategies and data-driven HR decision-making.
