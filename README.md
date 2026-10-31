@@ -3,89 +3,81 @@
 **Developed by Asmita Shelke**  
 Data Analyst | Python | Pandas | NumPy | Power BI
 
-## 📌 Project Overview
-
-Employee Attrition & Workforce Analysis is a data analytics project focused on understanding employee turnover, workforce distribution, salary trends, and job satisfaction. The project uses Python, Pandas, and NumPy for data cleaning, preprocessing, and Exploratory Data Analysis (EDA), followed by Power BI for developing interactive dashboards and meaningful visualizations.
-
-The objective is to identify key attrition factors, understand workforce trends, and support data-driven HR decision-making and employee retention strategies.
-
 ## ❗ Problem Statement
 
 Employee attrition affects workforce stability, productivity, and organizational costs. This project analyzes employee data using Python, Pandas, and NumPy to identify key attrition factors such as salary, job satisfaction, work-life balance, and employee tenure. An interactive Power BI dashboard is developed to visualize workforce trends and support data-driven HR decisions and employee retention strategies.
 
-## 🎯 Project Objectives
+# Employee Attrition & Workforce Analysis
+
+## Project Overview
+
+The Employee Attrition & Workforce Analysis project focuses on analyzing employee data to identify key factors influencing employee attrition and understand workforce trends. The objective is to transform raw employee data into meaningful insights that support employee retention strategies and data-driven HR decision-making.
+
+The project involves data cleaning and preprocessing using Python (Pandas and NumPy), Exploratory Data Analysis (EDA), and interactive dashboard development using Power BI.
+
+## Objectives
 
 - Analyze employee attrition patterns across departments, job roles, and cities.
-- Identify factors influencing employee turnover.
-- Understand salary, satisfaction, and employee experience trends.
-- Explore workforce distribution and employee demographics.
-- Develop an interactive Power BI dashboard for HR analytics.
-- Support employee retention and workforce planning through data-driven insights.
+- Identify factors influencing employee turnover, including salary, job satisfaction, work-life balance, and overtime.
+- Understand workforce distribution, employee experience, and salary trends.
+- Develop an interactive Power BI dashboard to support HR analytics and workforce planning.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
-| Tool | Purpose |
-|---|---|
-| Python | Data cleaning and analysis |
-| Pandas | Data manipulation and preprocessing |
-| NumPy | Numerical operations and missing-value handling |
-| Power BI | Interactive dashboards and data visualization |
-| GitHub | Project documentation and version control |
+- **Python:** Data cleaning, preprocessing, and exploratory data analysis.
+- **Pandas:** Data manipulation and transformation.
+- **NumPy:** Numerical operations and missing-value handling.
+- **Power BI:** Interactive dashboards, visualizations, and workforce analysis.
+- **GitHub:** Project documentation and version control.
 
-## 🧹 Data Cleaning & Preprocessing
+## Data Cleaning & Preparation
 
-The raw employee dataset was cleaned and prepared using Python.
+The raw employee dataset was processed using Python to improve data quality and ensure consistency.
 
-Key activities include:
+Key data preparation activities include:
 
-- Removing duplicate records.
-- Standardizing column names and categorical values.
-- Handling missing values using appropriate imputation techniques.
+- Handling duplicate employee records.
+- Standardizing categorical values and column names.
 - Converting date columns into appropriate formats.
 - Cleaning numerical fields and correcting invalid values.
+- Handling missing values using appropriate imputation techniques.
 - Validating employee age, salary, experience, and satisfaction ratings.
-- Performing logical consistency checks.
+- Performing logical consistency checks on employee-related attributes.
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
-EDA was performed to understand employee demographics, workforce distribution, and attrition patterns.
+EDA was performed to understand employee demographics, workforce distribution, and attrition trends.
 
 The analysis focuses on:
 
 - Employee attrition distribution.
 - Attrition by department, job role, and city.
-- Monthly income and salary hike trends.
+- Monthly income and salary hike patterns.
 - Employee tenure and total working experience.
 - Job satisfaction and work-life balance.
-- Overtime and its relationship with attrition.
+- Overtime and its relationship with employee attrition.
 
-## 📈 Power BI Dashboard
+## Power BI Dashboard
 
-An interactive Power BI dashboard was developed using the cleaned dataset to visualize workforce trends and employee attrition.
+The cleaned dataset is used to develop an interactive Power BI dashboard that provides insights into employee attrition and workforce performance.
 
-The dashboard includes:
+The dashboard includes KPIs, charts, filters, and interactive visualizations to explore workforce trends and identify potential employee retention challenges.
 
-- Key Performance Indicators (KPIs).
-- Employee attrition analysis.
-- Salary and workforce distribution.
-- Department and job role analysis.
-- Interactive slicers and filters.
-- Data-driven visualizations for workforce insights.
-
-## 🔄 Project Workflow
-
-Raw Dataset → Data Cleaning using Python → Exploratory Data Analysis → Cleaned Dataset → Power BI Dashboard → Workforce Insights
-
-## 💡 Key Outcomes
+## Key Outcomes
 
 - Improved understanding of employee attrition patterns.
 - Identification of workforce trends across departments and job roles.
 - Analysis of salary, satisfaction, and experience-related factors.
 - Interactive reporting to support workforce planning and employee retention analysis.
 
-## 📝 Conclusion
+## Project Workflow
 
-This project demonstrates the practical application of Python, Pandas, NumPy, and Power BI in HR analytics. It highlights how data cleaning, exploratory analysis, and interactive visualization can transform raw employee data into meaningful workforce insights and support data-driven decision-making.
+Raw Dataset → Data Cleaning using Python → Exploratory Data Analysis → Cleaned Dataset → Power BI Dashboard → Workforce Insights
+
+## Conclusion
+
+This project demonstrates the practical application of Python, Pandas, NumPy, and Power BI in HR analytics. It highlights how data cleaning, exploratory analysis, and interactive visualization can transform raw employee data into actionable workforce insights and support data-driven decision-making.
+
 
 ## 👩‍💻 Author
 
